@@ -1,4 +1,4 @@
-# Laravel React To Do App
+# Laravel React Task Manager App
 
 ![Screenshot](./Tasks.png 'Screenshot')
 
