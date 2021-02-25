@@ -1,4 +1,4 @@
-# Laravel React To Do App
+# Laravel React Task Manager App
 
 ![Screenshot](./Tasks.png 'Screenshot')
 
@@ -55,6 +55,10 @@ npm install
 _If you don't have Node and NPM installed, [instructions here](https://www.npmjs.com/get-npm)._
 
 #### Run an initial build:
+
+```bash
+php artisan serve
+```
 
 ```bash
 npm run dev
