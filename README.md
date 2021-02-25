@@ -1,5 +1,7 @@
 # Laravel React To Do App
 
+![Screenshot](./Tasks.png 'Screenshot')
+
 An example Task Manager App built with Laravel. It includes:
 
 - Create, Read, Update, Delete functionality (CRUD)
@@ -13,6 +15,7 @@ An example Task Manager App built with Laravel. It includes:
 ```bash
 git clone https://github.com/kchhan/tasks-app.git
 ```
+
 #### Create your environment file:
 
 ```bash
